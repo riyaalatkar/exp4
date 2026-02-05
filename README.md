@@ -132,6 +132,7 @@ ________________________________________________________________________________
 PROGRAMS WITH ALGORITHMS
 
 Program 1: Unique Event Participants
+
 Aim: To remove duplicate student registrations using sets.
 
 Algorithm
@@ -143,6 +144,7 @@ Algorithm
 
  
 Program 2: Common Elective Subjects
+
 Aim: To find the subjects chosen commonly by all students using intersection.
 
 Algorithm
@@ -154,6 +156,7 @@ Algorithm
 6. Stop
 
 Program 3: Cricket and Football Club Students
+
 Aim: To find students in both clubs and only one club.
 
 Algorithm
@@ -167,6 +170,7 @@ Algorithm
 8. Stop
 
 Program 4: Absent Students List
+
 Aim: To find absent students using difference operation.
 
 Algorithm:
@@ -179,6 +183,7 @@ Algorithm:
 7. Stop
 
 Program 5: Remove Invalid Course Codes
+
 Aim: To remove discontinued course codes from a set using remove/discard.
 
 Algorithm
